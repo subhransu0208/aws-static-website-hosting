@@ -1,5 +1,11 @@
 # Static Website Hosting Using Amazon S3 and CloudFront
 
+## AWS Architecture Diagram
+
+The following diagram illustrates the architecture of this project.
+
+![AWS Static Website Hosting Architecture](documentation/aws-static-website-architecture.drawio.png)
+
 ## Project Overview
 
 This project demonstrates how to host a static portfolio website using Amazon S3 and Amazon CloudFront.
